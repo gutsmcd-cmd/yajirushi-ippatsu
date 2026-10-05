@@ -75,7 +75,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Arrow Now',
+  appTitle: 'Screenshot Arrows',
   appSub: 'Mark up screenshots fast',
   open: 'Open a screenshot',
   openHint: 'Pick from gallery · share to this app · paste · drop',
