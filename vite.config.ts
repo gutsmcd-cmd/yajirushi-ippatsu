@@ -9,8 +9,8 @@ export default defineConfig({
       includeAssets: ['icons/*.png', 'share-target-sw.js'],
       manifest: {
         id: '/yajirushi-ippatsu/',
-        name: '矢印一発',
-        short_name: '矢印一発',
+        name: 'Screenshot Arrows',
+        short_name: 'Arrows',
         description: 'スクショに矢印・枠・マーカー・文字を追加。端末内だけで処理。無料・広告なし・ログイン不要。',
         lang: 'ja',
         theme_color: '#131619',
